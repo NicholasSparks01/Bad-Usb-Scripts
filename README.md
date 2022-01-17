@@ -11,3 +11,5 @@
  I am not liable for who else uses this script
  
 All Scripts are purely python
+
+In order to excecute scripts, you must change it to a DD file by adding .dd at the end 
