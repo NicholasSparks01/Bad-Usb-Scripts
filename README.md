@@ -13,3 +13,5 @@
 All Scripts are purely python
 
 In order to excecute scripts, you must change it to a DD file by adding .dd at the end 
+
+Ex: WifiHarvester.txt --> WifiHarvester.dd
