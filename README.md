@@ -9,3 +9,5 @@
  Use only on computers you are allowed to 
  
  I am not liable for who else uses this script
+ 
+All Scripts are purely python
