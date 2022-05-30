@@ -4,7 +4,7 @@
  ---------------------
  
  Description: These scripts are executed using a Raspberry Pi Pico. The Raspberry Pi Pico is assumed as a keyboard when plugged in 
- and can use "malicious" premade scripts to excecute anything that a normal user could with an unoccupied unlocked computer could do.
+ and can use malicious preloaded scripts to excecute anything that a normal user could with an unoccupied unlocked computer keyboard. 
  
  All of these scripts are for WINDOWS 11 only. 
  
